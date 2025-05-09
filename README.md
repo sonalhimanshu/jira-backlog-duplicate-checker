@@ -60,5 +60,3 @@ A Flask application that helps identify similar requirements in your JIRA projec
 - **JIRA API Connection Issues**: Make sure your API token is correct and you have proper permissions
 - **No Results**: Try using more specific keywords in your requirement
 - **Application Won't Start**: Check that you've activated the virtual environment before running
-
-## License
